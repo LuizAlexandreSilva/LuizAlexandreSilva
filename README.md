@@ -1,6 +1,6 @@
 # Hi there, I'm Luiz Alexandre!
 
-:computer: *Software Engineer at [Canal Dstak](https://canaldstak.com.br/)*
+:computer: *Software Engineer at [Méliuz](https://www.meliuz.com.br/)*
 \
 \
 :green_book: *Focusing on learning:*
