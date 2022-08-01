@@ -1,6 +1,6 @@
 # Hi there, I'm Luiz Alexandre!
 
-:computer: *Software Engineer at [Méliuz](https://www.meliuz.com.br/)*
+:computer: *Software Engineer*
 \
 \
 :green_book: *Focusing on learning:*
